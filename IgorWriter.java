@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author David Landry <dlandry@byu.net>
+ * @author David Landry <david@dmwl.net>
  */
 public class IgorWriter {
   public static void write (String filename, String[] names,
